@@ -1,0 +1,22 @@
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\Tietokannat hyödyntäminen 1.exe
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\Tietokannat hyödyntäminen 1.deps.json
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\Tietokannat hyödyntäminen 1.runtimeconfig.json
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\Tietokannat hyödyntäminen 1.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\Tietokannat hyödyntäminen 1.pdb
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.AssemblyInfoInputs.cache
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.AssemblyInfo.cs
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.csproj.CoreCompileInputs.cache
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\refint\Tietokannat hyödyntäminen 1.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.pdb
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.genruntimeconfig.cache
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\ref\Tietokannat hyödyntäminen 1.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokannat hyödyntäminen 1.csproj.AssemblyReference.cache
+C:\Users\gr275817\source\repos\Tietokannat hyödyntäminen 1\Tietokannat hyödyntäminen 1\obj\Debug\net8.0\Tietokan.4E40705A.Up2Date

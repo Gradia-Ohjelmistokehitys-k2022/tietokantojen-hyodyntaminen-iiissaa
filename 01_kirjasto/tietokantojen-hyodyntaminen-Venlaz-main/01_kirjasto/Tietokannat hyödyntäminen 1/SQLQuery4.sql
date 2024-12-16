@@ -1,0 +1,1 @@
+﻿SELECT * FROM Book where PublicationYear > YEAR(GETDATE()) - 25
